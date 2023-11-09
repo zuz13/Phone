@@ -24,3 +24,29 @@
 .containerIcon *{
     margin: 3px;
 }
+.containerOfState{
+    display: flex;
+    margin: 5px 3px;
+}
+.containerOfState .state{
+    height: 40px;
+    width: 50px;
+    border-radius: 50%;
+    background: #FF0000;
+    margin: 0 4px;
+}
+.bottomBar{
+    text-align: center;
+    /* position: relative; */
+    /* top: 51vh; */
+    /* bottom: 70px; */
+}
+.bottomBar *{
+    margin: 2px 14px;
+}
+.content{
+    width: auto;
+    height: 450px;
+    background-color: aqua;
+    /* background: transparent; */
+}
