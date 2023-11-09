@@ -98,9 +98,36 @@ instagram.addEventListener('click', ()=>{
                     </div>
                 </div>
             </div>
-            <div class="state"></div>
+            <div class="containerOfState">
+                <div class="state"></div>
+                <div class="state"></div>
+                <div class="state"></div>
+                <div class="state"></div>
+                <div class="state"></div>
+                <div class="state"></div>
+                <div class="state"></div>
+                <div class="state"></div>
+                <div class="state"></div>
+                <div class="state"></div>
+            </div>
             <div class="content"></div>
-            <div class="bottomBar"></div>
+            <div class="bottomBar">
+                <span class="material-symbols-outlined">
+                    home
+                </span>
+                <span class="material-symbols-outlined">
+                search
+                </span>
+                <span class="material-symbols-outlined">
+                    add_box
+                </span>
+                <span class="material-symbols-outlined">
+                    movie
+                </span>
+                <span class="material-symbols-outlined">
+                    account_circle
+                </span>
+            </div>
         </div>
     `;
 })
