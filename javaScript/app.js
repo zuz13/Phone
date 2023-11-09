@@ -82,14 +82,24 @@ instagram.addEventListener('click', ()=>{
     openApp.innerHTML=`
         <div>
             <div class="topBar">
-                <div class="logo"></div>
-                <div class="favorite"></div>
-                <div class="messenger"></div>
+                <div class="logo">
+                    <p>Instagram</p>
+                </div>
+                <div class="containerIcon">
+                    <div class="favorite">
+                        <span class="material-symbols-outlined">
+                            favorite
+                        </span>
+                    </div>
+                    <div class="messenger">
+                        <span class="material-symbols-outlined">
+                            chat
+                        </span>
+                    </div>
+                </div>
             </div>
             <div class="state"></div>
-                <p>Hi!</p>
-            <div class="content">
-            </div>
+            <div class="content"></div>
             <div class="bottomBar"></div>
         </div>
     `;
