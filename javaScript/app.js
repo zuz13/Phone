@@ -105,10 +105,6 @@ instagram.addEventListener('click', ()=>{
                 <div class="state"></div>
                 <div class="state"></div>
                 <div class="state"></div>
-                <div class="state"></div>
-                <div class="state"></div>
-                <div class="state"></div>
-                <div class="state"></div>
             </div>
             <div class="content"></div>
             <div class="bottomBar">
