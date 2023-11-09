@@ -47,3 +47,6 @@
     width: auto;
     height: 440px;
 }
+.pointer:hover{
+    cursor: pointer;
+}

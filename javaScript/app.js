@@ -87,40 +87,40 @@ instagram.addEventListener('click', ()=>{
                 </div>
                 <div class="containerIcon">
                     <div class="favorite">
-                        <span class="material-symbols-outlined">
+                        <span class="material-symbols-outlined" class="pointer">
                             favorite
                         </span>
                     </div>
                     <div class="messenger">
-                        <span class="material-symbols-outlined">
+                        <span class="material-symbols-outlined" class="pointer">
                             chat
                         </span>
                     </div>
                 </div>
             </div>
             <div class="containerOfState">
-                <div class="state"></div>
-                <div class="state"></div>
-                <div class="state"></div>
-                <div class="state"></div>
-                <div class="state"></div>
-                <div class="state"></div>
+                <div class="state" class="pointer"></div>
+                <div class="state" class="pointer"></div>
+                <div class="state" class="pointer"></div>
+                <div class="state" class="pointer"></div>
+                <div class="state" class="pointer"></div>
+                <div class="state" class="pointer"></div>
             </div>
             <div class="content"></div>
             <div class="bottomBar">
-                <span class="material-symbols-outlined">
+                <span class="material-symbols-outlined" class="pointer">
                     home
                 </span>
-                <span class="material-symbols-outlined">
+                <span class="material-symbols-outlined" class="pointer">
                 search
                 </span>
-                <span class="material-symbols-outlined">
+                <span class="material-symbols-outlined" class="pointer">
                     add_box
                 </span>
-                <span class="material-symbols-outlined">
+                <span class="material-symbols-outlined" class="pointer">
                     movie
                 </span>
-                <span class="material-symbols-outlined">
+                <span class="material-symbols-outlined" class="pointer">
                     account_circle
                 </span>
             </div>
