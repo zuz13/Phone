@@ -46,7 +46,7 @@
 }
 .content{
     width: auto;
-    height: 450px;
-    background-color: aqua;
+    height: 440px;
+    /* background-color: aqua; */
     /* background: transparent; */
 }
