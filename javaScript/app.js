@@ -99,12 +99,30 @@ instagram.addEventListener('click', ()=>{
                 </div>
             </div>
             <div class="containerOfState">
-                <div class="state" class="pointer"></div>
-                <div class="state" class="pointer"></div>
-                <div class="state" class="pointer"></div>
-                <div class="state" class="pointer"></div>
-                <div class="state" class="pointer"></div>
-                <div class="state" class="pointer"></div>
+                <div class="containerP">
+                    <div class="state" class="pointer"></div>
+                    <p>Your story</p>
+                </div>
+
+                <div class="containerP">
+                    <div class="state" class="pointer"></div>
+                    <p>Your story</p>
+                </div><div class="containerP">
+                    <div class="state" class="pointer"></div>
+                    <p>Your story</p>
+                </div>
+                <div class="containerP">
+                    <div class="state" class="pointer"></div>
+                    <p>Your story</p>
+                </div>
+                <div class="containerP">
+                    <div class="state" class="pointer"></div>
+                    <p>Your story</p>
+                </div>
+                <div class="containerP">
+                    <div class="state" class="pointer"></div>
+                    <p>Your story</p>
+                </div>
             </div>
             <div class="content"></div>
             <div class="bottomBar">
