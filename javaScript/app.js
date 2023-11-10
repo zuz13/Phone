@@ -114,7 +114,7 @@ instagram.addEventListener('click', ()=>{
                     <p>nasa</p>
                 </div>
 
-                <div class="containerP">
+                <div class="containerP" id=""storyOfF1>
                     <div class="state" class="pointer"></div>
                     <p>f1</p>
                 </div>
