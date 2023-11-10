@@ -25,12 +25,13 @@
 .containerOfState{
     display: flex;
     margin: 5px 3px;
+    text-align: center;
 }
 .containerOfState .state{
     height: 40px;
-    width: 50px;
+    width: 40px;
     border-radius: 50%;
-    margin: 0 4px;
+    margin: 0 2px;
 
     border: 4px linear-gradient(127deg, rgba(131,58,180,1) 19%, rgba(253,29,29,1) 54%, rgba(252,176,69,1) 73%);
 
@@ -45,8 +46,20 @@
 }
 .content{
     width: auto;
-    height: 440px;
+    height: 433px;
 }
-.pointer:hover{
+.containerOfState .containerP p{
+    font-size: xx-small;
+    font-weight: 100;
+    line-height: 0;
+    /* width: 2px; */
+    white-space: nowrap;
+    /* overflow: hidden; */
+    text-overflow: ellipsis;
+    margin-top: 8px;
+    text-align: center;
+    cursor: default;
+}
+.containerOfState .containerP, .material-symbols-outlined{
     cursor: pointer;
 }
