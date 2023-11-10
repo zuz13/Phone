@@ -114,7 +114,7 @@ instagram.addEventListener('click', ()=>{
                     <p>nasa</p>
                 </div>
 
-                <div class="containerP" id=""storyOfF1>
+                <div class="containerP" id="storyOfF1">
                     <div class="state" class="pointer">
                         <img src="../img/img instagram/F1.jpeg">
                     </div>

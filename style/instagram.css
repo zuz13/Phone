@@ -62,5 +62,10 @@
 *{
     position: relative;
 }
-#storyOfF1{
+#storyOfF1 img{
+    margin-top: 1.4px;
+    margin-left: 0.7px;
+    height: 37px;
+    width: 37px;
+    border-radius: 50%;
 }
