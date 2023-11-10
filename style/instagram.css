@@ -52,14 +52,17 @@
     font-size: xx-small;
     font-weight: 100;
     line-height: 0;
-    /* width: 2px; */
-    white-space: nowrap;
+    /* width: 8px; */
+    /* white-space: nowrap; */
     /* overflow: hidden; */
-    text-overflow: ellipsis;
+    /* text-overflow: ellipsis; */
     margin-top: 8px;
     text-align: center;
     cursor: default;
 }
 .containerOfState .containerP, .material-symbols-outlined{
     cursor: pointer;
+}
+*{
+    position: relative;
 }
