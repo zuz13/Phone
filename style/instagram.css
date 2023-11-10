@@ -31,8 +31,8 @@
     height: 40px;
     width: 40px;
     border-radius: 50%;
-    margin: 0 2px;
-
+    margin: 0 3px;
+    border-color: linear-gradient(127deg, rgba(131,58,180,1) 19%, rgba(253,29,29,1) 54%, rgba(252,176,69,1) 73%);
     border: 4px linear-gradient(127deg, rgba(131,58,180,1) 19%, rgba(253,29,29,1) 54%, rgba(252,176,69,1) 73%);
 
     background: rgb(131,58,180);
@@ -52,10 +52,6 @@
     font-size: xx-small;
     font-weight: 100;
     line-height: 0;
-    /* width: 8px; */
-    /* white-space: nowrap; */
-    /* overflow: hidden; */
-    /* text-overflow: ellipsis; */
     margin-top: 8px;
     text-align: center;
     cursor: default;
