@@ -106,12 +106,12 @@ instagram.addEventListener('click', ()=>{
 
                 <div class="containerP">
                     <div class="state" class="pointer"></div>
-                    <p>elalfaeljefe</p>
+                    <p>alfaeljefe</p>
                 </div>
 
                 <div class="containerP">
                     <div class="state" class="pointer"></div>
-                    <p>nasa_marshall</p>
+                    <p>nasa</p>
                 </div>
 
                 <div class="containerP">
@@ -126,7 +126,7 @@ instagram.addEventListener('click', ()=>{
 
                 <div class="containerP">
                     <div class="state" class="pointer"></div>
-                    <p>chaelproduciendo</p>
+                    <p>chael</p>
                 </div>
             </div>
             <div class="content"></div>
