@@ -62,10 +62,21 @@
 *{
     position: relative;
 }
-#storyOfF1 img{
-    margin-top: 1.7px;
-    margin-left: 0.4px;
+/*  */
+.state img{
+    margin-top: 1.68px;
+    margin-left: 0.2px;
+    margin-right: 0.27px;
     height: 37px;
     width: 37px;
     border-radius: 50%;
+}
+
+@media screen and (max-width: 768px) {
+    .state img{
+        margin-top: 1.7px;
+        margin-left: 0.4px;
+        height: 37px;
+        width: 37px;  
+    }
 }
