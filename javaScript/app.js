@@ -139,7 +139,9 @@ instagram.addEventListener('click', ()=>{
                     <p>chael</p>
                 </div>
             </div>
-            <div class="content"></div>
+            <div class="content">
+                <!-- this is a coment -->
+            </div>
             <div class="bottomBar">
                 <span class="material-symbols-outlined" class="pointer">
                     home
