@@ -14,28 +14,28 @@ safari.addEventListener('click', ()=>{
         <div class="bar">
             <nav class="navigation">
                 <button id="buttonSearch" class="buttonNavigation" style="margin-right: 0px;">
-                    <img src="icon/search_FILL0_wght400_GRAD0_opsz48.png">
+                    <img src="icon/Safari/search_FILL0_wght400_GRAD0_opsz48.png">
                 </button>
                 <input type="text" value="" id="searchBar" placeholder="search or enter website">
                 <button  class="buttonNavigation" style="margin-left: 0px;">
-                    <img src="icon/keyboard_voice_FILL0_wght400_GRAD0_opsz48.png">
+                    <img src="icon/Safari/keyboard_voice_FILL0_wght400_GRAD0_opsz48.png">
                 </button>
             </nav>
             <nav class="buttonBar">
                 <button id="backward" class="buttonNavigation">
-                    <img src="icon/arrow_back_ios_FILL0_wght400_GRAD0_opsz48.png">
+                    <img src="icon/Safari/arrow_back_ios_FILL0_wght400_GRAD0_opsz48.png">
                 </button>
                 <button id="forward" class="buttonNavigation">
-                    <img src="icon/arrow_forward_ios_FILL0_wght400_GRAD0_opsz48.png">
+                    <img src="icon/Safari/arrow_forward_ios_FILL0_wght400_GRAD0_opsz48.png">
                 </button>
                 <button id="publish" class="buttonNavigation">
-                    <img src="icon/publish_FILL0_wght400_GRAD0_opsz48.png">
+                    <img src="icon/Safari/publish_FILL0_wght400_GRAD0_opsz48.png">
                 </button>
                 <button id="import" class="buttonNavigation">
-                    <img src="icon/import_contacts_FILL0_wght400_GRAD0_opsz48.png">
+                    <img src="icon/Safari/import_contacts_FILL0_wght400_GRAD0_opsz48.png">
                 </button>
                 <button id="shadow" class="buttonNavigation">
-                    <img src="icon/shadow_FILL0_wght400_GRAD0_opsz48.png">
+                    <img src="icon/Safari/shadow_FILL0_wght400_GRAD0_opsz48.png">
                 </button>
             </nav>
         </div>
